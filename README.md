@@ -51,7 +51,7 @@ This is the main screen of the app.
 ### Extra mile
 * Snapshot testing
 * Performance optimizations
-
+* Suprise features that we don't expect to get
 
 
 **Good luck and if you have any questions feel free to ping us!**
