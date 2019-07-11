@@ -38,18 +38,18 @@ This is the main screen of the app.
 ### Rules & hints
 * Use [Movie API](https://developers.themoviedb.org/3/getting-started/introduction)
 * You can write your app in pure JS or use library of your choice - React (preferred) or Vue
-* Styles should be written in Sass (SCSS) or CSS in JS
+* Styles should be written in Sass (SCSS) or [CSS in JS](https://medium.com/dailyjs/what-is-actually-css-in-js-f2f529a2757)
 * Use a repository from the beginning, don't push everything in just one commit
 * Pay extra attention to the code quality, formatting and best practices
 
 ### Bonus points
-* Not using starter-kit like create-react-app
-* Using type checker (Typescript or Flow)
+* Not using _starter-kit_ like [create-react-app](https://github.com/facebook/create-react-app)
+* Using type checker ([Typescript](https://www.typescriptlang.org/) or [Flow](https://flow.org/))
 * Using linter
 * App is deployed and live
 
 ### Extra mile
-* Snapshot testing
+* [Snapshot testing](https://jestjs.io/docs/en/snapshot-testing)
 * Performance optimizations
 * Suprise features that we don't expect to get
 
