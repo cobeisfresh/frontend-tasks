@@ -50,6 +50,7 @@ This is the main screen of the app.
 
 ### Extra mile
 * [Snapshot testing](https://jestjs.io/docs/en/snapshot-testing)
+* [Storybook UI documentation](https://storybook.js.org)
 * Performance optimizations
 * Suprise features that we don't expect to get
 
