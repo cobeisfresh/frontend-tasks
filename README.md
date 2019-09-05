@@ -1,5 +1,7 @@
 # Shopping cart
 
+**Level: Beginner**
+
 The goal of the assignment is to create a shopping cart.
 
 ![Preview](https://github.com/cobeisfresh/frontend-tasks/blob/shopping-cart/images/sketch.png)
