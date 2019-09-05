@@ -54,6 +54,7 @@ This is the main screen of the app.
 * Performance optimizations
 * Suprise features that we don't expect to get
 
+___
 
 **Good luck and if you have any questions feel free to ping us!**
 
