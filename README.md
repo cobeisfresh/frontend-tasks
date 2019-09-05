@@ -15,6 +15,8 @@ The goal of the assignment is to create a shopping cart.
 ### Rules
 * Use the product list contained in the [`products.json`](https://github.com/cobeisfresh/frontend-tasks/blob/shopping-cart/products.json) file
 * The use of (web) technology and tools of your choice is allowed
+* Use a repository from the beginning, don't push everything in just one commit
+* Pay extra attention to the code quality, formatting and best practices
 
 ### Deliverables
 * The code must be uploaded to the GitHub repository. When you complete the task, you should send us the link to the repository
