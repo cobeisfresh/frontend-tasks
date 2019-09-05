@@ -11,7 +11,7 @@ Cilj zadatka je izraditi shopping košaricu.
 * Jedan proizvod je moguće više puta dodati u košaricu te je u tome slučaju potrebno ispisati koliko se kojega proizvoda nalazi u košarici i njihov ukupan iznos pojedinačno
 
 ### Rules
-* Koristiti listu proizvoda koja se nalazi u `products.json` datoteci
+* Koristiti listu proizvoda koja se nalazi u [`products.json`](https://github.com/cobeisfresh/frontend-tasks/blob/shopping-cart/products.json) datoteci
 * Dozvoljeno je korištenje (web) tehnologije i alata po izboru 
 
 ### Deliverables
