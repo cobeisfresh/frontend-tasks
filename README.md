@@ -1,5 +1,7 @@
 # Frontend task - Movie API
 
+**Level: Intermediate**
+
 Hi there! We have a task for you if you want to join our web team @[COBE](https://cobe.tech/)!
 
 Have you ever been in a situation when you didn't know which movie to watch? Your task is to build a web application for browsing movies. With _Movie Roulette_ feature users can easily get recommended movies by genre they prefer!
