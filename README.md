@@ -17,6 +17,8 @@ The goal of the assignment is to create a shopping cart.
 ### Deliverables
 * The code must be uploaded to the GitHub repository. When you complete the task, you should send us the link to the repository
 
+_____
+
 **Good luck and if you have any questions feel free to ping us!**
 
 * Danijel Vincijanović (Web dev)  - danijel.vincijanovic@cobeisfresh.com
