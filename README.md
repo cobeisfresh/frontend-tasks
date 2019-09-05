@@ -1,21 +1,21 @@
 # Shopping cart
 
-Cilj zadatka je izraditi shopping košaricu.
+The goal of the assignment is to create a shopping cart.
 
 ![Preview](https://github.com/cobeisfresh/frontend-tasks/blob/shopping-cart/images/sketch.png)
 
-### Requirements 
-* Klikom na “Dodaj” button odabrani proizvod se dodaje u košaricu
-* Košarica sadrži popis svih dodanih proizvoda te ukupan iznos
-* Jednom dodani proizvod je moguće obrisati iz košarice
-* Jedan proizvod je moguće više puta dodati u košaricu te je u tome slučaju potrebno ispisati koliko se kojega proizvoda nalazi u košarici i njihov ukupan iznos pojedinačno
+### Requirements
+* By clicking the "Add" button the selected product is being added to the cart
+* The cart contains a list of all the products added and the total amount
+* Once added, the product can be deleted from the cart
+* One product can be added to the cart more than once, in which case it is necessary to write how many products are in the cart and their total amount individually
 
 ### Rules
-* Koristiti listu proizvoda koja se nalazi u [`products.json`](https://github.com/cobeisfresh/frontend-tasks/blob/shopping-cart/products.json) datoteci
-* Dozvoljeno je korištenje (web) tehnologije i alata po izboru 
+* Use the product list contained in the [`products.json`](https://github.com/cobeisfresh/frontend-tasks/blob/shopping-cart/products.json) file
+* The use of (web) technology and tools of your choice is allowed
 
 ### Deliverables
-* Kod je potrebno postaviti na GitHub repozitorij i poslati link do repozitorija kada je zadatak dovršen
+* The code must be uploaded to the GitHub repository. When you complete the task, you should send us the link to the repository
 
 **Good luck and if you have any questions feel free to ping us!**
 
