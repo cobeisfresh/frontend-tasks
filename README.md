@@ -21,6 +21,11 @@ The goal of the assignment is to create a shopping cart.
 ### Deliverables
 * The code must be uploaded to the GitHub repository. When you complete the task, you should send us the link to the repository
 
+### Extra mile
+* Using type checker ([Typescript](https://www.typescriptlang.org/) or [Flow](https://flow.org/))
+* App is deployed and live
+* Suprise features that we don't expect to get
+
 _____
 
 **Good luck and if you have any questions feel free to ping us!**
