@@ -36,7 +36,18 @@
     If field is invalid display an error message below it. 
     Submit button should be disabled if form is invalid. After clicking submit button console log entered data.
     
- ## Useful resources
+    
+## Must read
+
+- [JavaScript basics](https://www.w3schools.com/js/default.asp)
+
+- [JavaScript fundamentals](https://javascript.info/first-steps)
+
+- [JavaScript info](https://javascript.info/js)
+
+- [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden)
+
+## Useful resources
  - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
  
  - [Prototypes in JavaScript](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)
