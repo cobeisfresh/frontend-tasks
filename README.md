@@ -41,9 +41,7 @@
 
 - [JavaScript basics](https://www.w3schools.com/js/default.asp)
 
-- [JavaScript fundamentals](https://javascript.info/first-steps)
-
-- [JavaScript info](https://javascript.info/js)
+- [JavaScript fundamentals](https://javascript.info/js)
 
 - [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden)
 
