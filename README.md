@@ -58,7 +58,7 @@
  
  - [ES6](http://marijnhaverbeke.nl/talks/es6_falsyvalues2015/#0)
   
- - [Javascript promises])(https://developers.google.com/web/fundamentals/primers/promises)
+ - [Javascript promises](https://developers.google.com/web/fundamentals/primers/promises)
   
  - [Javascript testing](https://www.sitepoint.com/javascript-testing-unit-functional-integration)
  
